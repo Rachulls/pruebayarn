@@ -1,0 +1,14 @@
+{
+  "name": "pruebaa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "rachulls",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "eslint": "^8.56.0",
+    "jest": "^29.7.0",
+    "nodemon": "^3.0.3",
+    "serialize-javascript": "^6.0.2"
+  }
+}
